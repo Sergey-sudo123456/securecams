@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Установка видеонаблюдения в США</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #2c3e50;
+      color: white;
+      padding: 30px;
+      text-align: center;
+    }
+    section {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    .services, .benefits {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+    .card {
+      background: white;
+      padding: 20px;
+      flex: 1;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    form {
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      margin-top: 30px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    input, textarea, button {
+      width: 100%;
+      padding: 10px;
+      margin: 10px 0;
+      border-radius: 4px;
+      border: 1px solid #ccc;
+    }
+    button {
+      background: #2980b9;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    footer {
+      background: #2c3e50;
+      color: white;
+      text-align: center;
+      padding: 15px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Установка видеонаблюдения в США</h1>
+    <p>Профессиональные системы безопасности для дома и бизнеса</p>
+  </header>
+
+  <section>
+    <h2>Наши преимущества</h2>
+    <div class="benefits">
+      <div class="card">✅ Сертифицированные специалисты</div>
+      <div class="card">✅ Установка "под ключ"</div>
+      <div class="card">✅ Поддержка 24/7</div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Наши услуги</h2>
+    <div class="services">
+      <div class="card">📹 Установка IP-камер</div>
+      <div class="card">🏠 Домашние и коммерческие решения</div>
+      <div class="card">📡 Удалённый доступ через смартфон</div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Оставить заявку</h2>
+    <form>
+      <input type="text" placeholder="Ваше имя" required />
+      <input type="tel" placeholder="Телефон" required />
+      <input type="email" placeholder="Email" />
+      <textarea placeholder="Кратко опишите задачу"></textarea>
+      <button type="submit">Отправить</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>© 2025 Установка видеонаблюдения в США | Email: fedorov12163902@gmail.com</p>
+  </footer>
+</body>
+</html>
